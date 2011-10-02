@@ -1,0 +1,7 @@
+name: Cron
+main: net.stupendous.cron.CronPlugin
+version: 1.0
+commands:
+  cron:
+    description: Interact with the Cron plugin
+    usage: "Usage: '/cron help'"
